@@ -1,2 +1,5 @@
 # MRC_Thoughts
-Some posts around MRC and its usages and ideation
+Some posts around MRC and its usages and ideation.
+
+## MRC
+
